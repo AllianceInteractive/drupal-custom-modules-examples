@@ -1,0 +1,8 @@
+name: 'Alliance Validate'
+type: module
+description: 'Custom module created to help validate webform submissions using hendlers.'
+core_version_requirement: ^9 || ^10
+package: 'Alliance'
+dependencies:
+  - drupal:dblog
+  - webform
